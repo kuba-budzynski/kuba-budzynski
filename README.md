@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kuba</h1>
-<h3 align="center">I'm a third-year computer science student at Wroclaw University of Science and Technology. My main point of interest is frontend but I certainly don't mind working at the back</h3>
+<h1 align="center">Hi 👋,   I'm Kuba</h1>
+<h3 align="center">I'm a third-year computer science student at Wroclaw University of Science and Technology. My main point of interest is frontend but I certainly don't mind working at the back. Current favourite stack is Next.js/TailwindCSS and Node.js/Express/TypeScript/MongoDB but also Sping with Java/Kotlin</h3>
+
+<h4 align="left">I'm working mainly in JavaScript and Java/Kotlin but I do not shy from any kind of technology. Some of my repos are private, mostly containing projects from my CS classes but if you need access to any for some reason - hit me up</h4>
 
 - 🔭 I’m currently working on **my degree**
 
