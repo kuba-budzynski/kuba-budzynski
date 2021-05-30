@@ -1,5 +1,3 @@
-![benner](https://user-images.githubusercontent.com/72972091/120119241-ebc8e980-c196-11eb-85cd-ba8f1ac73715.png)
-
 <h1 align="center">Hi 👋, I'm Kuba</h1>
 <h3 align="center">I'm a third-year computer science student at Wroclaw University of Science and Technology. My main point of interest is frontend but I certainly don't mind working at the back</h3>
 
