@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 <h2 align="center">My name is Kuba Budzyński</h2>
-<h3 align="center">I'm a third-year computer science student at **Wroclaw University of Science and Technology**. My main point of interest is frontend but I certainly don't mind working at the back. Current my favourite stack to work with is _Next.js/TailwindCSS_ and _Node.js/Express/TypeScript/MongoDB_ but also Sping with _Java/Kotlin_ </h3>
+<h3 align="center">I'm a third-year computer science student at Wroclaw University of Science and Technology. My main point of interest is frontend but I certainly don't mind working at the back. Current my favourite stack to work with is Next.js/TailwindCSS and Node.js/Express/TypeScript/MongoDB but also Sping with Java/Kotlin </h3>
 
-<h4 align="left">I'm working mainly in _JavaScript_ and _Java/Kotlin_ but I do not shy from any kind of technology. Some of my repos are private, mostly containing projects from my CS classes but if you need access to any for some reason - **hit me up** </h4>
+<h4 align="left">I'm working mainly in JavaScript and Java/Kotlin but I do not shy from any kind of technology. Some of my repos are private, mostly containing projects from my CS classes but if you need access to any for some reason - hit me up </h4>
 
 - 🔭 I’m currently working on **my degree**
 
